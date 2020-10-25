@@ -12,5 +12,5 @@ O Validador de tokens é um script em javascript que valida tokens em 3 categori
 1. Você precisa ter instalado o Node. [Node](https://nodejs.org/)
 2. Depois de baixar o arquivo, coloque todos os arquivos na mesma pasta
 3. Abra seu terminal/prompt e defini o caminho para a pasta *(exemplo no Windows usamos CD: `cd Desktop/Validador-de-token`*
-4. Clicar no arquivo chamado **`instalar`**.
-5. Depois de clicar no arquivo "instalar" clique no arquivo **`iniciar`**.
+4. Clicar no arquivo chamado **`install`**.
+5. Depois de clicar no arquivo "install" clique no arquivo **`start`**.
